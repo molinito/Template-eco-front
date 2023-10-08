@@ -196,7 +196,7 @@ function UpdateProduct() {
 
   const addBody = (
     <div className="modo" >
-      <h6>Add New Product</h6>
+      <h6>Add New Producto</h6>
       <FormControl  >
         <div >
           <TextField
