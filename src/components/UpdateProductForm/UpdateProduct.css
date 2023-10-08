@@ -104,7 +104,7 @@
   text-decoration-color: black;
 }
 
-.modal {
+.modo {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -122,8 +122,9 @@
   transform: translate(-50%, -50%);
 }
 
+
 .title {
   margin-top: 1px;
-}
+} 
 
 

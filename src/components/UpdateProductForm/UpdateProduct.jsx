@@ -195,10 +195,10 @@ function UpdateProduct() {
   }
 
   const addBody = (
-    <div className="modal">
+    <div className="modo" >
       <h6>Add New Product</h6>
-      <FormControl>
-        <div>
+      <FormControl  >
+        <div >
           <TextField
             type="text"
             className="input"
